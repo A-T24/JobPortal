@@ -1,6 +1,5 @@
 # JobPortal
-you can get preview of website by clicking on this link https://arun0041.github.io/JOB-Portal-Project-/
- This is an online job portal website implemented using HTML,CSS,Javascript with the help of bootstrap and jquery.
+This is an online job portal website implemented using HTML,CSS,Javascript with the help of bootstrap and jquery.
 
 ## Functionalities
   * A disjointed Login and Signup methods for Users and Recruiters.
